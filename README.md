@@ -1,4 +1,4 @@
-# Uchat
+# Uchat (Projet d'édudes)
 
 ## Qu'est-ce que Uchat
 
