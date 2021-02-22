@@ -1,6 +1,6 @@
 # Uchat
 
-## What is Uchat?
+## Qu'est-ce que Uchat
 
 Dans les grandes
 lignes, nous allons créer une application de communication en ligne, cela prendra donc le format d’un site web. Sur ce site web nous devrons donc être capables de discuter avec nos amis, accompagné d’un onglet communautaire qui prendra la forme d’une timeline avec les posts des différents utilisateurs, de la même manière (visuellement parlant) qu’Instagram (c’est donc dans cette partie que nous souhaitons implémenter l’intelligence artificielle).
@@ -13,7 +13,7 @@ donnée. Cela avec des systèmes de clés pour chiffrer les
 conversations privées, avec des techniques de chiffrement
 asymétrique et ou symétrique.
 
-## Why?
+## Pourquoi?
 Aujourd’hui,
 lorsqu'on lit les politiques de confidentialité de tous nos moyens de communication ou réseaux sociaux, on se rend compte alors que notre vie privée ou anonymat n’est qu’une illusion, la collecte de
 donnée excessive, ne rentre pas dans notre conception de la vie
