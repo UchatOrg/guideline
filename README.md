@@ -21,5 +21,7 @@ privée. Nous voulons alors proposer une éthique basée sur deux piliers : La p
 améliorer des fonctionnalités. Tout ça pour communiquer simplement de manière sereine.
 
 ## Architecture de l'application:
-Here is the architecture diagram of the application
+
+Ici, vous pouvez voir le diagramme d'architecture de notre application
+
 ![diagram](/diagram/diagram.svg)
