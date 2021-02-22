@@ -1,6 +1,6 @@
 # Uchat (Projet d'édudes)
 
-## Qu'est-ce que Uchat
+## Qu'est-ce que Uchat?
 
 Dans les grandes
 lignes, nous allons créer une application de communication en ligne, cela prendra donc le format d’une webapp. Sur cette webapp nous devrons donc être capables de discuter avec nos amis, accompagné d’un onglet communautaire qui prendra la forme d’une timeline avec les posts des différents utilisateurs, de la même manière (visuellement parlant) qu’Instagram (c’est donc dans cette partie que nous souhaitons implémenter l’intelligence artificielle).
