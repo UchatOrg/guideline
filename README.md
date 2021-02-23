@@ -22,6 +22,6 @@ améliorer des fonctionnalités. Tout ça pour communiquer simplement de manièr
 
 ## Architecture de l'application:
 
-Ici, vous pouvez voir le diagramme d'architecture de notre application
+Ici, vous pouvez voir le diagramme d'architecture globale de notre application:
 
 ![diagram](/diagram/diagram.svg)
