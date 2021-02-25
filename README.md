@@ -22,8 +22,7 @@ privée. Nous voulons alors proposer une éthique basée sur deux piliers : La p
 améliorer des fonctionnalités. Tout ça pour communiquer simplement de manière sereine.
 
 ## Type d'utilisateurs visés:
-
-### Des utilisateurs qui:
+## Des utilisateurs qui:
 ### -veulent être dans le respect de leurs données
 ### -veulent communiquer avec leurs proches de manière simple et en toute sécurité
 ### -sont contre l'utilisation à but lucratif de leurs données
