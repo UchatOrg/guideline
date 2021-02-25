@@ -24,9 +24,9 @@ améliorer des fonctionnalités. Tout ça pour communiquer simplement de manièr
 ## Type d'utilisateurs visés:
 
 ### Des utilisateurs qui:
-  -veulent être dans le respect de leurs données
-  -veulent communiquer avec leurs proches de manière simple et en toute sécurité
-  -sont contre l'utilisation à but lucratif de leurs données
+### -veulent être dans le respect de leurs données
+### -veulent communiquer avec leurs proches de manière simple et en toute sécurité
+### -sont contre l'utilisation à but lucratif de leurs données
 
 ## Architecture de l'application:
 
