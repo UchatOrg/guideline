@@ -27,8 +27,14 @@ améliorer des fonctionnalités. Tout ça pour communiquer simplement de manièr
 ### -veulent communiquer avec leurs proches de manière simple et en toute sécurité
 ### -sont contre l'utilisation à but lucratif de leurs données
 
-## Architecture de l'application:
+## Architecture Globale de l'application:
 
 Ici, vous pouvez voir le diagramme d'architecture globale de notre application:
 
 ![diagram](/diagram/diagram.svg)
+
+## Diagramme de la base de données:
+
+![database](/diagram/database/diagram.svg)
+
+
